@@ -6,7 +6,8 @@
 "time_start":1,
 "time_next":2,
 "time_hide":1,
-"id_ads":""
+"id_ads":"",
+"start_app":false
 },
 {
 "pkm":"",
@@ -14,7 +15,8 @@
 "time_start":1,
 "time_next":1,
 "time_hide":1,
-"id_ads":""
+"id_ads":"",
+"start_app":false
 }
 ]
 }
